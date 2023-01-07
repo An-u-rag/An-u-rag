@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=An-u-rag&show_icons=true&theme=tokyonight&title_color=0E727E&icon_color=0E727E)
 ](https://github.com/An-u-rag/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&hide=shell,astro,HTML,CSS&layout=compact)](https://github.com/An-u-rag/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=elm-hangman,accenture&langs_count=6&hide=shell,astro,HTML,CSS&layout=compact)](https://github.com/An-u-rag/github-readme-stats)
