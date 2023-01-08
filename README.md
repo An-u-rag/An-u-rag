@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<a href="https://github.com/An-u-rag/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=An-u-rag&show_icons=true&theme=tokyonight&title_color=0E727E&icon_color=0E727E" />
-</a>
-<a href="https://github.com/An-u-rag/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-u-rag&exclude_repo=fps-shooter-game,3d-roller-game&langs_count=6&hide=GLSL,ShaderLab,shell,astro,HTML,CSS&layout=compact" />
-</a>
+| <a href="https://github.com/An-u-rag/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=An-u-rag&show_icons=true&theme=tokyonight&title_color=0E727E&icon_color=0E727E&hide_border=true" /></a>
+| <a href="https://github.com/An-u-rag/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An-u-rag&exclude_repo=fps-shooter-game,3d-roller-game&langs_count=6&hide=GLSL,ShaderLab,shell,astro,HTML,CSS&layout=compact&hide_border=true" /></a>|
+| ------------- | ------------- |
+
