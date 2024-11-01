@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @An-u-rag aka Anurag Parcha. Current Masters of Computer Science Student at Simon Fraser University. Specializing in Computer Vision and Graphics.
+- 👋 Hi, I’m @An-u-rag aka Anurag Parcha. Currently working as a Machine Learning Developer at 3DM Devices Inc. Some of my main responsibilities are to work to integrate AI into the production pipeline for realtiem anomaly detection in manufacturing lines for tires.
+
+- 👨‍🎓 Recently graduated from the Masters of Professional Computer Science program from Simon Fraser University. Specializing in AI, Computer Vision and Graphics.
 
 - 👀 I’m interested in Development, mainly development for a purpose or to solve a real world problem. My main area of focus is Artificial Intelligence i.e. Deep Learning, Computer Vision and Computer Graphics. I also love to think about how my areas of interest can translate to applying in Extended Reality which includes Augmented, Virtual, and Mixed reality environments. 
       
