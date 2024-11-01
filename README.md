@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @An-u-rag aka Anurag Parcha. Currently working as a Machine Learning Developer at 3DM Devices Inc. Some of my main responsibilities are to work to integrate AI into the production pipeline for realtiem anomaly detection in manufacturing lines for tires.
+- 👋 Hi, I’m @An-u-rag aka Anurag Parcha. Currently working as a Machine Learning Developer at 3DM Devices Inc. Some of my main responsibilities are to integrate AI into the production pipeline for realtime anomaly detection in manufacturing lines for tires, software development in C++ for the production software and also continuously performing optimization for AI inference, training and testing production-ready computer vision models and developing productivity improvement and QoL tools for the software team. 
 
 - 👨‍🎓 Recently graduated from the Masters of Professional Computer Science program from Simon Fraser University. Specializing in AI, Computer Vision and Graphics.
 
